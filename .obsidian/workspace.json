@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "README"
+            }
+          },
+          {
+            "id": "1549732ab4204f65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LOGS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LOGS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "71846205445f6fc6",
@@ -110,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "LOGS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for LOGS"
             }
           },
           {
@@ -129,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "LOGS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from LOGS"
             }
           },
           {
@@ -172,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "LOGS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of LOGS"
             }
           }
         ]
@@ -199,11 +214,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "92ba339c7908784c",
+  "active": "830f374be7e971e3",
   "lastOpenFiles": [
     "README.md",
-    "LICENSE",
     "JOURNAL.md",
-    "Welcome.md"
+    "LOGS.md",
+    "Welcome.md",
+    "LICENSE"
   ]
 }
