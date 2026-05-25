@@ -3,3 +3,40 @@ JOURNAL.md
 RESOURCES.md
 journals/
 images/
+
+# KiCad 
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups
+*-cache*
+\#auto_saved_files\#
+_autosave-*
+*~
+
+# KiCad internal
+*.kicad_prl
+.history
+fp-info-cache
+~*.lck
+
+# Netlist 
+*.net
+*.dsn
+*.ses
+
+# PCB fabrication 
+*.gbr
+*.gtl
+*.gbl
+*.gts
+*.gbs
+*.gto
+*.gbo
+*.drl
+
+
+# Backups
+backups/
+
+easyeda2kicad/
