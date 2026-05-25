@@ -8,63 +8,175 @@
         "type": "tabs",
         "children": [
           {
-            "id": "92ba339c7908784c",
+            "id": "3b94164bc558ac69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "journals/DPT Week 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "DPT Week 4"
             }
           },
           {
-            "id": "1549732ab4204f65",
+            "id": "aeec64a04b7da8dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "random learnings.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "random learnings"
+              "title": "Untitled 1"
             }
           },
           {
-            "id": "7b2f42bc50ede9cd",
+            "id": "150352b2e7cd5aad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/Journal No.2.md",
+                "file": "journals/DPT Week 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Journal No.2"
+              "title": "DPT Week 5"
             }
           },
           {
-            "id": "81236393ab27c2b7",
+            "id": "76c8f974b0fa06cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JOURNAL.md",
+                "file": "Untitled 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JOURNAL"
+              "title": "Untitled 2"
+            }
+          },
+          {
+            "id": "e3503d5e63a41ece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/DPT Week 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DPT Week 6"
+            }
+          },
+          {
+            "id": "c281d546388eb7a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/DPT Week 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DPT Week 6"
+            }
+          },
+          {
+            "id": "c1cda3cf1ebd56f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/DPT Week 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DPT Week 6"
+            }
+          },
+          {
+            "id": "b331ff35efaf14d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 3"
+            }
+          },
+          {
+            "id": "6d40beb0c408f07b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/DPT Week 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DPT Week 5"
+            }
+          },
+          {
+            "id": "c01fea1f7f753dd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "5c512369b8ab9a38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/DPT Week 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DPT Week 7"
+            }
+          },
+          {
+            "id": "668b72c5223dd59a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -226,37 +338,47 @@
       "bases:Create new base": false
     }
   },
-  "active": "830f374be7e971e3",
+  "active": "668b72c5223dd59a",
   "lastOpenFiles": [
-    "pcb/pcb-backups/pcb-2026-04-27_211629.zip",
-    "drivers/drivers-backups/drivers-2026-04-27_211628.zip",
+    "journals/DPT Week 8.md",
+    "mobo/mobo-backups/mobo-2026-05-24_200615.zip",
+    "mobo/#auD9B2.tmp",
+    "mobo/#auto_saved_files#",
+    "mobo/_autosave-mcu_io.kicad_sch",
+    "mobo/~mobo.kicad_sch.lck",
+    "mobo/~mobo.kicad_pro.lck",
+    "drivers/drivers-backups/drivers-2026-05-24_195921.zip",
+    "drivers/_autosave-drivers.kicad_sch",
+    "drivers/drivers-backups/drivers-2026-05-24_195122.zip",
+    "journals/DPT Week 6.md",
+    "Pasted image 20260524173031.png",
+    "journals/DPT Week 7.md",
+    "journals/Template.md",
+    "Untitled 5.md",
+    "drivers/drivers-backups/drivers-2026-05-24_172421.zip",
+    "Untitled 1.md",
+    "Untitled.md",
+    "journals/DPT Week 5.md",
+    "journals/DPT Week 4.md",
+    "journals/DPT Week 3.md",
+    "journals/DPT Week 2.md",
+    "Untitled 2.md",
+    "Untitled 4.md",
+    "images/Pasted image 20260510104054.png",
+    "images/Pasted image 20260510232950.png",
+    "images/Pasted image 20260510232726.png",
+    "images/Pasted image 20260510232055.png",
+    "images/Pasted image 20260510104758.png",
+    "images/Pasted image 20260510104420.png",
+    "images/Pasted image 20260510104312.png",
+    "images/Pasted image 20260510104250.png",
+    "images/Pasted image 20260430160003.png",
+    "Pinout.md",
+    "README.md",
+    "JOURNAL.md",
     "journals/random learnings.md",
     "journals/Untitled.md",
-    "journals/DPT Week 3.md",
     "DPT Week 4.md",
-    "journals/DPT Week 4.md",
-    "images/Pasted image 20260427102400.png",
-    "images/Pasted image 20260427102347.png",
-    "images/Pasted image 20260427094740.png",
-    "images/Pasted image 20260427094059.png",
-    "images/Pasted image 20260427092753.png",
-    "images/Pasted image 20260427092713.png",
-    "images/Pasted image 20260427092610.png",
-    "images/Pasted image 20260427092358.png",
-    "images/Pasted image 20260427042231.png",
-    "images/Pasted image 20260427025637.png",
-    "drivers/drivers-backups/drivers-2026-04-27_211041.zip",
-    "pcb/pcb-backups/pcb-2026-04-27_210619.zip",
-    "drivers/drivers-backups/drivers-2026-04-27_210226.zip",
-    "drivers/drivers-backups/drivers-2026-04-27_205638.zip",
-    "drivers/drivers-backups/drivers-2026-04-27_204813.zip",
-    "drivers/#auto_saved_files#",
-    "drivers/_autosave-motor_driver.kicad_sch",
-    "drivers/_autosave-drivers.kicad_sch",
-    "drivers/drivers-backups/drivers-2026-04-27_203430.zip",
-    "journals/Journal No.2.md",
-    "JOURNAL.md",
-    "README.md",
     "RESOURCES.md",
     "LOGS.md",
     "POST.md",

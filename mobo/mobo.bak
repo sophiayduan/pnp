@@ -424,14 +424,14 @@
 			(pin unspecified line
 				(at 15.24 -3.81 180)
 				(length 2.54)
-				(name "VCC"
+				(name "LO"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "14"
+				(number "13"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -442,14 +442,14 @@
 			(pin unspecified line
 				(at 15.24 -6.35 180)
 				(length 2.54)
-				(name "LO"
+				(name "VCC"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "13"
+				(number "14"
 					(effects
 						(font
 							(size 1.27 1.27)
